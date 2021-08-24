@@ -1,0 +1,390 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.jitsi.meet"
+4    android:installLocation="auto"
+5    android:versionCode="8312933"
+6    android:versionName="21.0.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="23"
+9-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml
+10        android:targetSdkVersion="30" />
+10-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml
+11    <!-- XXX ACCESS_NETWORK_STATE is required by WebRTC. -->
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:10:5-79
+12-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:10:22-76
+13    <uses-permission android:name="android.permission.BLUETOOTH" />
+13-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-68
+13-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:11:22-65
+14    <uses-permission android:name="android.permission.CAMERA" />
+14-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-65
+14-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:12:22-62
+15    <uses-permission android:name="android.permission.INTERNET" />
+15-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-67
+15-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:13:22-64
+16    <uses-permission android:name="android.permission.MANAGE_OWN_CALLS" />
+16-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:14:5-75
+16-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:14:22-72
+17    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+17-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:15:5-80
+17-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:15:22-77
+18    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+18-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:16:5-71
+18-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:16:22-68
+19    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+19-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:17:5-78
+19-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:17:22-75
+20    <uses-permission android:name="android.permission.WAKE_LOCK" />
+20-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:18:5-68
+20-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:18:22-65
+21    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+21-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:19:5-76
+21-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:19:22-73
+22    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+22-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:20:5-77
+22-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:20:22-74
+23
+24    <uses-feature
+24-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:22:5-24:35
+25        android:glEsVersion="0x00020000"
+25-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:23:9-41
+26        android:required="true" />
+26-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:24:9-32
+27    <uses-feature
+27-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:25:5-27:36
+28        android:name="android.hardware.camera"
+28-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:26:9-47
+29        android:required="false" />
+29-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:27:9-33
+30    <uses-feature
+30-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:28:5-30:36
+31        android:name="android.hardware.camera.autofocus"
+31-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:29:9-57
+32        android:required="false" />
+32-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:30:9-33
+33
+34    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+34-->[:react-native-calendar-events] /home/enggar/Artifact/jitsi-meet/node_modules/react-native-calendar-events/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-73
+34-->[:react-native-calendar-events] /home/enggar/Artifact/jitsi-meet/node_modules/react-native-calendar-events/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:22-70
+35    <uses-permission android:name="android.permission.READ_CALENDAR" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+35-->[:react-native-calendar-events] /home/enggar/Artifact/jitsi-meet/node_modules/react-native-calendar-events/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-72
+35-->[:react-native-calendar-events] /home/enggar/Artifact/jitsi-meet/node_modules/react-native-calendar-events/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:22-69
+36    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+36-->[com.google.android.gms:play-services-iid:17.0.0] /home/enggar/.gradle/caches/transforms-2/files-2.1/efee21ad8e8f4d77a3d40fdb0b212d9a/jetified-play-services-iid-17.0.0/AndroidManifest.xml:23:5-82
+36-->[com.google.android.gms:play-services-iid:17.0.0] /home/enggar/.gradle/caches/transforms-2/files-2.1/efee21ad8e8f4d77a3d40fdb0b212d9a/jetified-play-services-iid-17.0.0/AndroidManifest.xml:23:22-79
+37    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+37-->[com.google.android.gms:play-services-measurement:17.5.0] /home/enggar/.gradle/caches/transforms-2/files-2.1/492eb79c0da53692479e7714f68ad33e/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:26:5-110
+37-->[com.google.android.gms:play-services-measurement:17.5.0] /home/enggar/.gradle/caches/transforms-2/files-2.1/492eb79c0da53692479e7714f68ad33e/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:26:22-107
+38
+39    <application
+39-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml:5:3-42:17
+40        android:allowBackup="true"
+40-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml:6:7-33
+41        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+41-->[androidx.core:core:1.3.0] /home/enggar/.gradle/caches/transforms-2/files-2.1/30516bf9309f57d53ff47033481bde9a/core-1.3.0/AndroidManifest.xml:24:18-86
+42        android:extractNativeLibs="false"
+43        android:icon="@mipmap/ic_launcher"
+43-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml:7:7-41
+44        android:label="@string/app_name"
+44-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml:8:7-39
+45        android:networkSecurityConfig="@xml/network_security_config"
+45-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml:9:7-67
+46        android:supportsRtl="true"
+46-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:35:9-35
+47        android:theme="@style/AppTheme" >
+47-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml:10:7-38
+48        <meta-data
+48-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml:11:5-13:52
+49            android:name="android.content.APP_RESTRICTIONS"
+49-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml:12:9-56
+50            android:resource="@xml/app_restrictions" />
+50-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml:13:9-49
+51
+52        <activity
+52-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml:14:5-41:16
+53            android:name="org.jitsi.meet.MainActivity"
+53-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml:18:9-37
+54            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize"
+54-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml:15:9-111
+55            android:label="@string/app_name"
+55-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml:16:9-41
+56            android:launchMode="singleTask"
+56-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml:17:9-40
+57            android:resizeableActivity="true"
+57-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml:19:9-42
+58            android:supportsPictureInPicture="true"
+58-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml:20:9-48
+59            android:windowSoftInputMode="adjustResize" >
+59-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml:21:9-51
+60            <meta-data
+60-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml:22:7-97
+61                android:name="firebase_crashlytics_collection_enabled"
+61-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml:22:18-72
+62                android:value="false" />
+62-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml:22:73-94
+63
+64            <intent-filter>
+64-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml:23:7-26:23
+65                <action android:name="android.intent.action.MAIN" />
+65-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml:24:9-61
+65-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml:24:17-58
+66
+67                <category android:name="android.intent.category.LAUNCHER" />
+67-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml:25:9-69
+67-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml:25:19-66
+68            </intent-filter>
+69            <intent-filter>
+69-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml:27:7-34:23
+70                <action android:name="android.intent.action.VIEW" />
+70-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml:28:9-61
+70-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml:28:17-58
+71
+72                <category android:name="android.intent.category.BROWSABLE" />
+72-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml:29:9-70
+72-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml:29:19-67
+73                <category android:name="android.intent.category.DEFAULT" />
+73-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml:30:9-68
+73-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml:30:19-65
+74
+75                <data
+75-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml:31:9-71
+76                    android:host="alpha.jitsi.net"
+76-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml:31:15-45
+77                    android:scheme="https" />
+77-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml:31:46-68
+78                <data
+78-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml:31:9-71
+79                    android:host="beta.meet.jit.si"
+79-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml:31:15-45
+80                    android:scheme="https" />
+80-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml:31:46-68
+81                <data
+81-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml:31:9-71
+82                    android:host="meet.jit.si"
+82-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml:31:15-45
+83                    android:scheme="https" />
+83-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml:31:46-68
+84            </intent-filter>
+85            <intent-filter>
+85-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml:35:7-40:23
+86                <action android:name="android.intent.action.VIEW" />
+86-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml:28:9-61
+86-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml:28:17-58
+87
+88                <category android:name="android.intent.category.BROWSABLE" />
+88-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml:29:9-70
+88-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml:29:19-67
+89                <category android:name="android.intent.category.DEFAULT" />
+89-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml:30:9-68
+89-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml:30:19-65
+90
+91                <data android:scheme="org.jitsi.meet" />
+91-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml:31:9-71
+91-->/home/enggar/Artifact/jitsi-meet/android/app/src/main/AndroidManifest.xml:31:46-68
+92            </intent-filter>
+93        </activity>
+94        <activity
+94-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:36:9-42:58
+95            android:name="org.jitsi.meet.sdk.JitsiMeetActivity"
+95-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:37:13-64
+96            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize"
+96-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:38:13-115
+97            android:launchMode="singleTask"
+97-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:39:13-44
+98            android:resizeableActivity="true"
+98-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:40:13-46
+99            android:supportsPictureInPicture="true"
+99-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:41:13-52
+100            android:windowSoftInputMode="adjustResize" />
+100-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:42:13-55
+101        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+101-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:43:9-86
+101-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:43:19-83
+102
+103        <service
+103-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:45:9-51:19
+104            android:name="org.jitsi.meet.sdk.ConnectionService"
+104-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:46:13-64
+105            android:permission="android.permission.BIND_TELECOM_CONNECTION_SERVICE" >
+105-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:47:13-84
+106            <intent-filter>
+106-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:48:13-50:29
+107                <action android:name="android.telecom.ConnectionService" />
+107-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:49:17-76
+107-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:49:25-73
+108            </intent-filter>
+109        </service>
+110        <service
+110-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:52:9-54:63
+111            android:name="org.jitsi.meet.sdk.JitsiMeetOngoingConferenceService"
+111-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:53:13-80
+112            android:foregroundServiceType="mediaProjection" />
+112-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:54:13-60
+113
+114        <provider
+114-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:56:9-61:20
+115            android:name="com.reactnativecommunity.webview.RNCWebViewFileProvider"
+115-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:57:13-83
+116            android:authorities="org.jitsi.meet.fileprovider"
+116-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:58:13-64
+117            android:enabled="false"
+117-->[:sdk] /home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/library_manifest/release/AndroidManifest.xml:59:13-36
+118            android:exported="false"
+118-->[:react-native-webview] /home/enggar/Artifact/jitsi-meet/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:13-37
+119            android:grantUriPermissions="true" >
+119-->[:react-native-webview] /home/enggar/Artifact/jitsi-meet/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:13-47
+120            <meta-data
+120-->[:react-native-webview] /home/enggar/Artifact/jitsi-meet/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:17:13-19:63
+121                android:name="android.support.FILE_PROVIDER_PATHS"
+121-->[:react-native-webview] /home/enggar/Artifact/jitsi-meet/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:18:17-67
+122                android:resource="@xml/file_provider_paths" />
+122-->[:react-native-webview] /home/enggar/Artifact/jitsi-meet/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:17-60
+123        </provider>
+124
+125        <activity
+125-->[com.google.android.gms:play-services-auth:16.0.1] /home/enggar/.gradle/caches/transforms-2/files-2.1/82a70f9813747cf34c59a120784d54d8/jetified-play-services-auth-16.0.1/AndroidManifest.xml:23:9-27:75
+126            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+126-->[com.google.android.gms:play-services-auth:16.0.1] /home/enggar/.gradle/caches/transforms-2/files-2.1/82a70f9813747cf34c59a120784d54d8/jetified-play-services-auth-16.0.1/AndroidManifest.xml:24:13-93
+127            android:excludeFromRecents="true"
+127-->[com.google.android.gms:play-services-auth:16.0.1] /home/enggar/.gradle/caches/transforms-2/files-2.1/82a70f9813747cf34c59a120784d54d8/jetified-play-services-auth-16.0.1/AndroidManifest.xml:25:13-46
+128            android:exported="false"
+128-->[com.google.android.gms:play-services-auth:16.0.1] /home/enggar/.gradle/caches/transforms-2/files-2.1/82a70f9813747cf34c59a120784d54d8/jetified-play-services-auth-16.0.1/AndroidManifest.xml:26:13-37
+129            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+129-->[com.google.android.gms:play-services-auth:16.0.1] /home/enggar/.gradle/caches/transforms-2/files-2.1/82a70f9813747cf34c59a120784d54d8/jetified-play-services-auth-16.0.1/AndroidManifest.xml:27:13-72
+130        <!--
+131            Service handling Google Sign-In user revocation. For apps that do not integrate with
+132            Google Sign-In, this service will never be started.
+133        -->
+134        <service
+134-->[com.google.android.gms:play-services-auth:16.0.1] /home/enggar/.gradle/caches/transforms-2/files-2.1/82a70f9813747cf34c59a120784d54d8/jetified-play-services-auth-16.0.1/AndroidManifest.xml:33:9-36:110
+135            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+135-->[com.google.android.gms:play-services-auth:16.0.1] /home/enggar/.gradle/caches/transforms-2/files-2.1/82a70f9813747cf34c59a120784d54d8/jetified-play-services-auth-16.0.1/AndroidManifest.xml:34:13-89
+136            android:exported="true"
+136-->[com.google.android.gms:play-services-auth:16.0.1] /home/enggar/.gradle/caches/transforms-2/files-2.1/82a70f9813747cf34c59a120784d54d8/jetified-play-services-auth-16.0.1/AndroidManifest.xml:35:13-36
+137            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+137-->[com.google.android.gms:play-services-auth:16.0.1] /home/enggar/.gradle/caches/transforms-2/files-2.1/82a70f9813747cf34c59a120784d54d8/jetified-play-services-auth-16.0.1/AndroidManifest.xml:36:13-107
+138        <service
+138-->[com.google.firebase:firebase-crashlytics:17.2.1] /home/enggar/.gradle/caches/transforms-2/files-2.1/256e04c47f7b2a0d9ad9e80d744c0f33/jetified-firebase-crashlytics-17.2.1/AndroidManifest.xml:13:9-19:19
+139            android:name="com.google.firebase.components.ComponentDiscoveryService"
+139-->[com.google.firebase:firebase-crashlytics:17.2.1] /home/enggar/.gradle/caches/transforms-2/files-2.1/256e04c47f7b2a0d9ad9e80d744c0f33/jetified-firebase-crashlytics-17.2.1/AndroidManifest.xml:14:13-84
+140            android:directBootAware="true"
+140-->[com.google.firebase:firebase-common:19.3.1] /home/enggar/.gradle/caches/transforms-2/files-2.1/c61f4d44fef0f1a95c2ad8be5197cd07/jetified-firebase-common-19.3.1/AndroidManifest.xml:35:13-43
+141            android:exported="false" >
+141-->[com.google.firebase:firebase-crashlytics:17.2.1] /home/enggar/.gradle/caches/transforms-2/files-2.1/256e04c47f7b2a0d9ad9e80d744c0f33/jetified-firebase-crashlytics-17.2.1/AndroidManifest.xml:15:13-37
+142            <meta-data
+142-->[com.google.firebase:firebase-crashlytics:17.2.1] /home/enggar/.gradle/caches/transforms-2/files-2.1/256e04c47f7b2a0d9ad9e80d744c0f33/jetified-firebase-crashlytics-17.2.1/AndroidManifest.xml:16:13-18:85
+143                android:name="com.google.firebase.components:com.google.firebase.crashlytics.CrashlyticsRegistrar"
+143-->[com.google.firebase:firebase-crashlytics:17.2.1] /home/enggar/.gradle/caches/transforms-2/files-2.1/256e04c47f7b2a0d9ad9e80d744c0f33/jetified-firebase-crashlytics-17.2.1/AndroidManifest.xml:17:17-115
+144                android:value="com.google.firebase.components.ComponentRegistrar" />
+144-->[com.google.firebase:firebase-crashlytics:17.2.1] /home/enggar/.gradle/caches/transforms-2/files-2.1/256e04c47f7b2a0d9ad9e80d744c0f33/jetified-firebase-crashlytics-17.2.1/AndroidManifest.xml:18:17-82
+145            <meta-data
+145-->[com.google.firebase:firebase-dynamic-links:19.1.0] /home/enggar/.gradle/caches/transforms-2/files-2.1/640224b2e8c06016429af7dfdd2045f3/jetified-firebase-dynamic-links-19.1.0/AndroidManifest.xml:9:13-11:85
+146                android:name="com.google.firebase.components:com.google.firebase.dynamiclinks.internal.FirebaseDynamicLinkRegistrar"
+146-->[com.google.firebase:firebase-dynamic-links:19.1.0] /home/enggar/.gradle/caches/transforms-2/files-2.1/640224b2e8c06016429af7dfdd2045f3/jetified-firebase-dynamic-links-19.1.0/AndroidManifest.xml:10:17-133
+147                android:value="com.google.firebase.components.ComponentRegistrar" />
+147-->[com.google.firebase:firebase-dynamic-links:19.1.0] /home/enggar/.gradle/caches/transforms-2/files-2.1/640224b2e8c06016429af7dfdd2045f3/jetified-firebase-dynamic-links-19.1.0/AndroidManifest.xml:11:17-82
+148            <meta-data
+148-->[com.google.android.gms:play-services-measurement-api:17.5.0] /home/enggar/.gradle/caches/transforms-2/files-2.1/74e4569870a02698c7428deba6d2e733/jetified-play-services-measurement-api-17.5.0/AndroidManifest.xml:30:13-32:85
+149                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+149-->[com.google.android.gms:play-services-measurement-api:17.5.0] /home/enggar/.gradle/caches/transforms-2/files-2.1/74e4569870a02698c7428deba6d2e733/jetified-play-services-measurement-api-17.5.0/AndroidManifest.xml:31:17-139
+150                android:value="com.google.firebase.components.ComponentRegistrar" />
+150-->[com.google.android.gms:play-services-measurement-api:17.5.0] /home/enggar/.gradle/caches/transforms-2/files-2.1/74e4569870a02698c7428deba6d2e733/jetified-play-services-measurement-api-17.5.0/AndroidManifest.xml:32:17-82
+151            <meta-data
+151-->[com.google.firebase:firebase-installations:16.3.3] /home/enggar/.gradle/caches/transforms-2/files-2.1/a109d83454a8da3ffcff9b29b481b821/jetified-firebase-installations-16.3.3/AndroidManifest.xml:17:13-19:85
+152                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+152-->[com.google.firebase:firebase-installations:16.3.3] /home/enggar/.gradle/caches/transforms-2/files-2.1/a109d83454a8da3ffcff9b29b481b821/jetified-firebase-installations-16.3.3/AndroidManifest.xml:18:17-127
+153                android:value="com.google.firebase.components.ComponentRegistrar" />
+153-->[com.google.firebase:firebase-installations:16.3.3] /home/enggar/.gradle/caches/transforms-2/files-2.1/a109d83454a8da3ffcff9b29b481b821/jetified-firebase-installations-16.3.3/AndroidManifest.xml:19:17-82
+154        </service>
+155
+156        <activity
+156-->[com.google.android.gms:play-services-base:17.0.0] /home/enggar/.gradle/caches/transforms-2/files-2.1/fe8464827fafe75e8016b1b5f36f48a2/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+157            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+157-->[com.google.android.gms:play-services-base:17.0.0] /home/enggar/.gradle/caches/transforms-2/files-2.1/fe8464827fafe75e8016b1b5f36f48a2/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+158            android:exported="false"
+158-->[com.google.android.gms:play-services-base:17.0.0] /home/enggar/.gradle/caches/transforms-2/files-2.1/fe8464827fafe75e8016b1b5f36f48a2/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+159            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+159-->[com.google.android.gms:play-services-base:17.0.0] /home/enggar/.gradle/caches/transforms-2/files-2.1/fe8464827fafe75e8016b1b5f36f48a2/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+160
+161        <receiver
+161-->[com.google.android.gms:play-services-measurement:17.5.0] /home/enggar/.gradle/caches/transforms-2/files-2.1/492eb79c0da53692479e7714f68ad33e/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:29:9-33:20
+162            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+162-->[com.google.android.gms:play-services-measurement:17.5.0] /home/enggar/.gradle/caches/transforms-2/files-2.1/492eb79c0da53692479e7714f68ad33e/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:30:13-85
+163            android:enabled="true"
+163-->[com.google.android.gms:play-services-measurement:17.5.0] /home/enggar/.gradle/caches/transforms-2/files-2.1/492eb79c0da53692479e7714f68ad33e/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:31:13-35
+164            android:exported="false" >
+164-->[com.google.android.gms:play-services-measurement:17.5.0] /home/enggar/.gradle/caches/transforms-2/files-2.1/492eb79c0da53692479e7714f68ad33e/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:32:13-37
+165        </receiver>
+166
+167        <service
+167-->[com.google.android.gms:play-services-measurement:17.5.0] /home/enggar/.gradle/caches/transforms-2/files-2.1/492eb79c0da53692479e7714f68ad33e/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:35:9-38:40
+168            android:name="com.google.android.gms.measurement.AppMeasurementService"
+168-->[com.google.android.gms:play-services-measurement:17.5.0] /home/enggar/.gradle/caches/transforms-2/files-2.1/492eb79c0da53692479e7714f68ad33e/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:36:13-84
+169            android:enabled="true"
+169-->[com.google.android.gms:play-services-measurement:17.5.0] /home/enggar/.gradle/caches/transforms-2/files-2.1/492eb79c0da53692479e7714f68ad33e/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:37:13-35
+170            android:exported="false" />
+170-->[com.google.android.gms:play-services-measurement:17.5.0] /home/enggar/.gradle/caches/transforms-2/files-2.1/492eb79c0da53692479e7714f68ad33e/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:38:13-37
+171        <service
+171-->[com.google.android.gms:play-services-measurement:17.5.0] /home/enggar/.gradle/caches/transforms-2/files-2.1/492eb79c0da53692479e7714f68ad33e/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:39:9-43:72
+172            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+172-->[com.google.android.gms:play-services-measurement:17.5.0] /home/enggar/.gradle/caches/transforms-2/files-2.1/492eb79c0da53692479e7714f68ad33e/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:40:13-87
+173            android:enabled="true"
+173-->[com.google.android.gms:play-services-measurement:17.5.0] /home/enggar/.gradle/caches/transforms-2/files-2.1/492eb79c0da53692479e7714f68ad33e/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:41:13-35
+174            android:exported="false"
+174-->[com.google.android.gms:play-services-measurement:17.5.0] /home/enggar/.gradle/caches/transforms-2/files-2.1/492eb79c0da53692479e7714f68ad33e/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:42:13-37
+175            android:permission="android.permission.BIND_JOB_SERVICE" />
+175-->[com.google.android.gms:play-services-measurement:17.5.0] /home/enggar/.gradle/caches/transforms-2/files-2.1/492eb79c0da53692479e7714f68ad33e/jetified-play-services-measurement-17.5.0/AndroidManifest.xml:43:13-69
+176
+177        <provider
+177-->[com.google.firebase:firebase-common:19.3.1] /home/enggar/.gradle/caches/transforms-2/files-2.1/c61f4d44fef0f1a95c2ad8be5197cd07/jetified-firebase-common-19.3.1/AndroidManifest.xml:26:9-31:39
+178            android:name="com.google.firebase.provider.FirebaseInitProvider"
+178-->[com.google.firebase:firebase-common:19.3.1] /home/enggar/.gradle/caches/transforms-2/files-2.1/c61f4d44fef0f1a95c2ad8be5197cd07/jetified-firebase-common-19.3.1/AndroidManifest.xml:27:13-77
+179            android:authorities="org.jitsi.meet.firebaseinitprovider"
+179-->[com.google.firebase:firebase-common:19.3.1] /home/enggar/.gradle/caches/transforms-2/files-2.1/c61f4d44fef0f1a95c2ad8be5197cd07/jetified-firebase-common-19.3.1/AndroidManifest.xml:28:13-72
+180            android:directBootAware="true"
+180-->[com.google.firebase:firebase-common:19.3.1] /home/enggar/.gradle/caches/transforms-2/files-2.1/c61f4d44fef0f1a95c2ad8be5197cd07/jetified-firebase-common-19.3.1/AndroidManifest.xml:29:13-43
+181            android:exported="false"
+181-->[com.google.firebase:firebase-common:19.3.1] /home/enggar/.gradle/caches/transforms-2/files-2.1/c61f4d44fef0f1a95c2ad8be5197cd07/jetified-firebase-common-19.3.1/AndroidManifest.xml:30:13-37
+182            android:initOrder="100" />
+182-->[com.google.firebase:firebase-common:19.3.1] /home/enggar/.gradle/caches/transforms-2/files-2.1/c61f4d44fef0f1a95c2ad8be5197cd07/jetified-firebase-common-19.3.1/AndroidManifest.xml:31:13-36
+183
+184        <meta-data
+184-->[com.google.android.gms:play-services-basement:17.0.0] /home/enggar/.gradle/caches/transforms-2/files-2.1/f392966f3f1c2a8bc3d0a8522035fb3d/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+185            android:name="com.google.android.gms.version"
+185-->[com.google.android.gms:play-services-basement:17.0.0] /home/enggar/.gradle/caches/transforms-2/files-2.1/f392966f3f1c2a8bc3d0a8522035fb3d/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+186            android:value="@integer/google_play_services_version" />
+186-->[com.google.android.gms:play-services-basement:17.0.0] /home/enggar/.gradle/caches/transforms-2/files-2.1/f392966f3f1c2a8bc3d0a8522035fb3d/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+187
+188        <service
+188-->[com.google.android.datatransport:transport-backend-cct:2.3.1] /home/enggar/.gradle/caches/transforms-2/files-2.1/695c1f86937bcc47f296d8ca155a6ce0/jetified-transport-backend-cct-2.3.1/AndroidManifest.xml:29:9-35:19
+189            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+189-->[com.google.android.datatransport:transport-backend-cct:2.3.1] /home/enggar/.gradle/caches/transforms-2/files-2.1/695c1f86937bcc47f296d8ca155a6ce0/jetified-transport-backend-cct-2.3.1/AndroidManifest.xml:30:13-103
+190            android:exported="false" >
+190-->[com.google.android.datatransport:transport-backend-cct:2.3.1] /home/enggar/.gradle/caches/transforms-2/files-2.1/695c1f86937bcc47f296d8ca155a6ce0/jetified-transport-backend-cct-2.3.1/AndroidManifest.xml:31:13-37
+191            <meta-data
+191-->[com.google.android.datatransport:transport-backend-cct:2.3.1] /home/enggar/.gradle/caches/transforms-2/files-2.1/695c1f86937bcc47f296d8ca155a6ce0/jetified-transport-backend-cct-2.3.1/AndroidManifest.xml:32:13-34:39
+192                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+192-->[com.google.android.datatransport:transport-backend-cct:2.3.1] /home/enggar/.gradle/caches/transforms-2/files-2.1/695c1f86937bcc47f296d8ca155a6ce0/jetified-transport-backend-cct-2.3.1/AndroidManifest.xml:33:17-94
+193                android:value="cct" />
+193-->[com.google.android.datatransport:transport-backend-cct:2.3.1] /home/enggar/.gradle/caches/transforms-2/files-2.1/695c1f86937bcc47f296d8ca155a6ce0/jetified-transport-backend-cct-2.3.1/AndroidManifest.xml:34:17-36
+194        </service>
+195        <service
+195-->[com.google.android.datatransport:transport-runtime:2.2.4] /home/enggar/.gradle/caches/transforms-2/files-2.1/57bb423585dc6da1f18d0c4563cc3042/jetified-transport-runtime-2.2.4/AndroidManifest.xml:26:9-30:19
+196            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+196-->[com.google.android.datatransport:transport-runtime:2.2.4] /home/enggar/.gradle/caches/transforms-2/files-2.1/57bb423585dc6da1f18d0c4563cc3042/jetified-transport-runtime-2.2.4/AndroidManifest.xml:27:13-117
+197            android:exported="false"
+197-->[com.google.android.datatransport:transport-runtime:2.2.4] /home/enggar/.gradle/caches/transforms-2/files-2.1/57bb423585dc6da1f18d0c4563cc3042/jetified-transport-runtime-2.2.4/AndroidManifest.xml:28:13-37
+198            android:permission="android.permission.BIND_JOB_SERVICE" >
+198-->[com.google.android.datatransport:transport-runtime:2.2.4] /home/enggar/.gradle/caches/transforms-2/files-2.1/57bb423585dc6da1f18d0c4563cc3042/jetified-transport-runtime-2.2.4/AndroidManifest.xml:29:13-69
+199        </service>
+200
+201        <receiver
+201-->[com.google.android.datatransport:transport-runtime:2.2.4] /home/enggar/.gradle/caches/transforms-2/files-2.1/57bb423585dc6da1f18d0c4563cc3042/jetified-transport-runtime-2.2.4/AndroidManifest.xml:32:9-34:40
+202            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+202-->[com.google.android.datatransport:transport-runtime:2.2.4] /home/enggar/.gradle/caches/transforms-2/files-2.1/57bb423585dc6da1f18d0c4563cc3042/jetified-transport-runtime-2.2.4/AndroidManifest.xml:33:13-132
+203            android:exported="false" />
+203-->[com.google.android.datatransport:transport-runtime:2.2.4] /home/enggar/.gradle/caches/transforms-2/files-2.1/57bb423585dc6da1f18d0c4563cc3042/jetified-transport-runtime-2.2.4/AndroidManifest.xml:34:13-37
+204    </application>
+205
+206</manifest>

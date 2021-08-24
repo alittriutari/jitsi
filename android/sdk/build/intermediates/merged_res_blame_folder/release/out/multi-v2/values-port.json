@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/home/enggar/.gradle/caches/transforms-2/files-2.1/6ac74da49aae9616b46b45b4cb713c00/appcompat-1.2.0/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/home/enggar/.gradle/caches/transforms-2/files-2.1/6ac74da49aae9616b46b45b4cb713c00/appcompat-1.2.0/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/enggar/.gradle/caches/transforms-2/files-2.1/6ac74da49aae9616b46b45b4cb713c00/appcompat-1.2.0/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/home/enggar/.gradle/caches/transforms-2/files-2.1/6ac74da49aae9616b46b45b4cb713c00/appcompat-1.2.0/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/enggar/.gradle/caches/transforms-2/files-2.1/6ac74da49aae9616b46b45b4cb713c00/appcompat-1.2.0/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/home/enggar/.gradle/caches/transforms-2/files-2.1/fe8464827fafe75e8016b1b5f36f48a2/jetified-play-services-base-17.0.0/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/home/enggar/.gradle/caches/transforms-2/files-2.1/6ac74da49aae9616b46b45b4cb713c00/appcompat-1.2.0/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/home/enggar/.gradle/caches/transforms-2/files-2.1/fe8464827fafe75e8016b1b5f36f48a2/jetified-play-services-base-17.0.0/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/color/abc_hint_foreground_material_dark.xml",
+        "source": "/home/enggar/.gradle/caches/transforms-2/files-2.1/6ac74da49aae9616b46b45b4cb713c00/appcompat-1.2.0/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/home/enggar/.gradle/caches/transforms-2/files-2.1/6ac74da49aae9616b46b45b4cb713c00/appcompat-1.2.0/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/home/enggar/.gradle/caches/transforms-2/files-2.1/6ac74da49aae9616b46b45b4cb713c00/appcompat-1.2.0/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/color/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/enggar/.gradle/caches/transforms-2/files-2.1/6ac74da49aae9616b46b45b4cb713c00/appcompat-1.2.0/res/color/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/color/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/enggar/.gradle/caches/transforms-2/files-2.1/6ac74da49aae9616b46b45b4cb713c00/appcompat-1.2.0/res/color/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/home/enggar/.gradle/caches/transforms-2/files-2.1/6ac74da49aae9616b46b45b4cb713c00/appcompat-1.2.0/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/color/abc_hint_foreground_material_light.xml",
+        "source": "/home/enggar/.gradle/caches/transforms-2/files-2.1/6ac74da49aae9616b46b45b4cb713c00/appcompat-1.2.0/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/enggar/.gradle/caches/transforms-2/files-2.1/6ac74da49aae9616b46b45b4cb713c00/appcompat-1.2.0/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/home/enggar/.gradle/caches/transforms-2/files-2.1/6ac74da49aae9616b46b45b4cb713c00/appcompat-1.2.0/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/home/enggar/.gradle/caches/transforms-2/files-2.1/fe8464827fafe75e8016b1b5f36f48a2/jetified-play-services-base-17.0.0/res/color/common_google_signin_btn_text_dark.xml"
+    }
+]

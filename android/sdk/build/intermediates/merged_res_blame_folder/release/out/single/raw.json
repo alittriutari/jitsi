@@ -1,0 +1,338 @@
+[
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_languageszhcn.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_languageszhcn.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_mainoc.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_mainoc.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_mainsc.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_mainsc.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/node_modules_entities_lib_maps_decode.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/node_modules_entities_lib_maps_decode.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/node_modules_entities_lib_maps_legacy.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/node_modules_entities_lib_maps_legacy.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_languagessl.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_languagessl.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_mainbg.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_mainbg.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/node_modules_i18nisocountries_langs_en.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/node_modules_i18nisocountries_langs_en.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_mainesus.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_mainesus.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_languagesaf.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_languagesaf.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_languagesfrca.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_languagesfrca.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/node_modules_entities_lib_maps_xml.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/node_modules_entities_lib_maps_xml.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_languagesvi.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_languagesvi.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_mainhu.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_mainhu.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_mainhr.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_mainhr.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_mainfr.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_mainfr.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/node_modules_cssselect_lib_procedure.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/node_modules_cssselect_lib_procedure.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_mainar.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_mainar.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_languagesptbr.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_languagesptbr.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_mainet.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_mainet.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/node_modules_reactnativeurlpolyfill_package.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/node_modules_reactnativeurlpolyfill_package.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_languagesoc.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_languagesoc.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_mainit.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_mainit.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_languagessc.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_languagessc.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_languagestr.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_languagestr.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_languagesengb.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_languagesengb.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_languagesfi.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_languagesfi.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_languagespl.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_languagespl.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_languagesde.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_languagesde.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_languageszhtw.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_languageszhtw.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_languagesnl.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_languagesnl.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_languagesesus.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_languagesesus.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_mainpl.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_mainpl.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_mainvi.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_mainvi.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/node_modules_csstree_data_patch.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/node_modules_csstree_data_patch.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_mainca.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_mainca.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_mainmn.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_mainmn.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_mainfi.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_mainfi.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/node_modules_csstree_package.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/node_modules_csstree_package.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_mainnl.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_mainnl.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_languagesro.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_languagesro.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_languagesit.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_languagesit.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_languageset.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_languageset.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_main.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_main.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/node_modules_domserializer_foreignnames.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/node_modules_domserializer_foreignnames.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_languageshr.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_languageshr.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_languagesru.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_languagesru.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_languagesca.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_languagesca.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_languagesfa.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_languagesfa.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_maines.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_maines.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_languagesfr.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_languagesfr.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_mainko.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_mainko.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_mainro.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_mainro.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_mainde.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_mainde.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_languagessk.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_languagessk.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_mainsk.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_mainsk.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_languagesmn.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_languagesmn.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_maintr.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_maintr.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_languageshu.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_languageshu.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_languagesja.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_languagesja.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_mainptbr.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_mainptbr.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_mainzhcn.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_mainzhcn.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/node_modules_reactnative_package.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/node_modules_reactnative_package.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/node_modules_csstree_node_modules_mdndata_css_atrules.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/node_modules_csstree_node_modules_mdndata_css_atrules.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_mainru.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_mainru.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_languages.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_languages.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/node_modules_csstree_node_modules_mdndata_css_syntaxes.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/node_modules_csstree_node_modules_mdndata_css_syntaxes.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_languageses.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_languageses.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_mainfa.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_mainfa.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_mainengb.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_mainengb.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_mainja.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_mainja.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/node_modules_entities_lib_maps_entities.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/node_modules_entities_lib_maps_entities.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_maineo.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_maineo.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_mainfrca.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_mainfrca.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_languagessv.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_languagessv.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_languagesar.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_languagesar.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_mainaf.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_mainaf.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_mainsl.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_mainsl.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/node_modules_csstree_node_modules_mdndata_css_properties.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/node_modules_csstree_node_modules_mdndata_css_properties.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_mainsv.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_mainsv.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_languagesbg.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_languagesbg.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_languageseo.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_languageseo.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_mainzhtw.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_mainzhtw.json"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/raw/lang_languagesko.json",
+        "source": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/generated/res/react/release/raw/lang_languagesko.json"
+    }
+]

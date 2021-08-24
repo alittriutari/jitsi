@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "/home/enggar/.gradle/caches/transforms-2/files-2.1/6ac74da49aae9616b46b45b4cb713c00/appcompat-1.2.0/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/enggar/Artifact/jitsi-meet/android/sdk/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/enggar/.gradle/caches/transforms-2/files-2.1/6ac74da49aae9616b46b45b4cb713c00/appcompat-1.2.0/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    }
+]
